@@ -9,8 +9,8 @@ terraform {
 }
 
 provider "google" {
-    credentials = file("hydproject1-300518-260144625546.json")
-    project = "hydproject1-300518"
+    credentials = file("continual-air-298711-682aef04b450.json")
+    project = "continual-air-298711"
     region = "us-central1"
     zone = "us-central1-a"
 
